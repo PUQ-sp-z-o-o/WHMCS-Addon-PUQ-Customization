@@ -1,5 +1,0 @@
-# Client Area
-
-The widget in the client area is available on the **"My Invoices"** page.
-
-[![image-1684340796490.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684340796490.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684340796490.png)
