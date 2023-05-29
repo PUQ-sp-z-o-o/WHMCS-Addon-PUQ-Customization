@@ -1,6 +1,6 @@
 # Description
 
-##### **CC Management**
+### **CC Management**
 
  **Auto CC Management** is a powerful extension included in the **PUQ Customization** module.
 
