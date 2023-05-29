@@ -2,10 +2,11 @@
 
 ## In the client area, the menu looks like this
 
-###   
-Not for logged in users
+### Not for logged in users
 
 [![image-1684361993010.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684361993010.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684361993010.png)
+
+
 
 ### For logged in users
 
