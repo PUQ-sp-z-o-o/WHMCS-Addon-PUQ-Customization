@@ -1,0 +1,30 @@
+# Add New Page
+
+[![image-1684618896170.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684618896170.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684618896170.png)
+
+To create a new custom page, simply select the desired type for the page and click the "Add New" button. This will initiate the process of creating a unique page tailored to your specific needs.
+
+[![image-1684618912393.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684618912393.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684618912393.png)
+
+To edit the newly created page and configure it for each language separately, please follow these instructions:
+
+1. Locate the custom page you want to edit in the Page List table.
+2. Find the corresponding row for the page and click on the page's name or edit button (if available) to access the page editing interface.
+3. In the editing interface, you will find fields to modify the page details.
+4. Update the "Name" field with the desired name for your page.
+5. Set the "URL" field to your preferred URL slug, for example, "home" (without spaces or special characters).
+6. Set the "Publish" parameter to "Yes" to make the page visible on your website.
+7. Additionally, you have the option to enter the following parameters for better SEO optimization:
+    
+    
+    - "OG title": Specify the Open Graph title for the page.
+    - "OG description": Provide an Open Graph description for the page.
+    - "OG image": Enter the URL or select an image for the Open Graph representation.
+    - "Keyword(s)": Add relevant keywords for the page, separated by commas.
+8. If you have multiple languages enabled in WHMCS, you will see language tabs or a language dropdown menu in the editing interface.
+9. Select the desired language tab or choose the appropriate language from the dropdown menu.
+10. Modify the page content, settings, and SEO parameters specifically for the selected language.
+11. Repeat steps 9 and 10 for each language you want to customize the page for.
+12. Once you have finished editing the page for all desired languages, save your changes.
+
+By following these instructions, you can edit and configure the custom page individually for each language, allowing you to provide tailored content and settings to your website visitors based on their language preferences.

@@ -1,0 +1,13 @@
+# Widget Product Cards
+
+#### Аdmin configuration
+
+[![image-1684506158280.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684506158280.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684506158280.png)
+
+##### Example of how the widget might look in the client area, all colors and sizes are customizable.
+
+[![image-1684506238604.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684506238604.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684506238604.png)
+
+[![image-1684506713153.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684506713153.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684506713153.png)
+
+[![image-1684506718412.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684506718412.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684506718412.png)

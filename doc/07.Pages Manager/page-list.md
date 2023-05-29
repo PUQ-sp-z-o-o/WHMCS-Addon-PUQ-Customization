@@ -1,0 +1,7 @@
+# Page list
+
+[![image-1684618732953.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684618732953.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684618732953.png)
+
+On the Page List page, you will find a comprehensive list of your custom pages. The table includes the following fields: ID, Name, URL, Type, Publish, Required login, Created, and Updated.
+
+To create a new custom page, simply select the desired type for the page and click the "Add New" button. This will initiate the process of creating a unique page tailored to your specific needs.
