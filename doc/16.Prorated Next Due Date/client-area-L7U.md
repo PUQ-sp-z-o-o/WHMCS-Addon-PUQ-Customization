@@ -1,0 +1,21 @@
+# Client Area
+
+[![image-1684436029880.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684436029880.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684436029880.png)
+
+In the customer portal, there is a widget that allows clients to align the payment cycles of their services. It appears as a menu with the following options:
+
+Synchronize payments (01 Day)
+
+- All Services: 11
+- Monthly Services: 6
+- Quarterly Services: 1
+- Semi-Annually Services: 1
+- Annually Services: 1
+- Biennially Services: 1
+- Triennially Services: 1
+
+When a client clicks on a specific option, the system will synchronize the payment cycles to the chosen day of the month. It will generate a proration invoice, and once the invoice is paid, all services will be set to the same due date.
+
+This widget provides clients with a convenient way to manage and align the payment cycles of their services, ensuring easier financial planning and consistency in billing. By selecting the desired option, clients can streamline their payment schedules and simplify the management of their services.
+
+[![image-1684436040098.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684436040098.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684436040098.png)

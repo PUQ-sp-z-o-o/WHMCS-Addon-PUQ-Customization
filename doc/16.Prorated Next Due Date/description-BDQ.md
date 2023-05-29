@@ -1,0 +1,42 @@
+# Description
+
+## Prorated Next Due Date
+
+  
+The "Prorated Next Due Date" extension provides the ability for both administrators and clients to align their payment cycles to a specific day of the month.
+
+This extension is designed for mass alignment of service payments to a designated day of the month for a particular client. It also empowers clients to independently perform such alignment.
+
+The configuration of the extension includes the following parameters:
+
+- Button on client area: Adds a button to the client area, allowing clients to agree on the payment due date for their services.
+- Prorata Date: The day of the month to align the service payment to.
+- Prorate monthly: Enables alignment of products with a monthly billing cycle.
+- Prorate quarterly: Enables alignment of products with a quarterly billing cycle.
+- Prorate semi-annual: Enables alignment of products with a semi-annual billing cycle.
+- Prorate annual: Enables alignment of products with an annual billing cycle.
+- Prorate biennial: Enables alignment of products with a biennial billing cycle.
+- Prorate triennial: Enables alignment of products with a triennial billing cycle.
+- Calculate days by date of use: To calculate the proportion for invoicing, the number of days in the billing period needs to be known. If this parameter is set, the number of days for billing periods will be automatically calculated at the time of functionality usage.
+- Days month: The number of days in a month.
+- Days quarter: The number of days in a quarter.
+- Days half year: The number of days in a half-year.
+- Days year: The number of days in a year.
+- Days two year: The number of days in two years.
+- Days three year: The number of days in three years.
+
+The mechanism of proration works as follows:
+
+1. It allows alignment for all services with different billing cycles.
+2. Alignment can be done for services with specific billing cycles.
+3. Only active and suspended services are eligible for alignment.
+4. If the Next Due Date matches the Prorata Date, the service does not participate in the alignment.
+5. Services with Next Due Date in the past are aligned to the nearest future Prorata Date (relative to the date of usage).
+6. Services with Next Due Date in the future are aligned to the nearest future Prorata Date from the Next Due Date.
+7. Proration invoices are created based on the service payment method (each payment method has its own invoice with proration items).
+8. If there is an unpaid position for a service in an invoice, the position will be removed, and the invoice will be adjusted.
+9. After invoice adjustment, if the invoice has no positions, it will be deleted.
+10. After alignment, a proforma proration invoice is generated.
+11. Importantly, the Next Due Date will only change after payment of the proforma proration invoice.
+
+The module also includes a widget for the client area, allowing clients to manage the alignment of their payment dates independently.

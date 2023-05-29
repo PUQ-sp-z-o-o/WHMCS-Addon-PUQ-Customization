@@ -1,0 +1,37 @@
+# Configuration
+
+[![image-1684433948068.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684433948068.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684433948068.png)
+
+**Enabled** - Enabling or disabling all custom functions of this extension affects the automation and visibility of its features in the client area. When extension disabled, the automation capabilities and related features provided by the extension will not be active or visible to clients. However, as an administrator, you will still have access to configure and utilize the extension's functionalities through the administration interface. This gives you the flexibility to control the visibility and automation aspects of the extension based on your specific needs and preferences.
+
+On the settings page, you can configure the following parameters:
+
+**Button on client area**: This option allows you to add a button to the customer zone, enabling customers to align the due date for their services.
+
+**Prorata Date**: Enter the day of the month on which you want to charge for the services.
+
+**Prorate monthly**: If set to "YES," it enables payment equalization for products with a monthly payment cycle.
+
+**Prorate quarterly**: If set to "YES," it enables payment equalization for products with a quarterly payment cycle.
+
+**Prorate semi-annual**: If set to "YES," it enables payment equalization for products with a semi-annual payment cycle.
+
+**Prorate annual**: If set to "YES," it enables payment equalization for products with an annual payment cycle.
+
+**Prorate biennial**: If set to "YES," it enables payment equalization for products with a biennial payment cycle.
+
+**Prorate triennial**: If set to "YES," it enables payment equalization for products with a triennial payment cycle.
+
+Calculate days by date of use: If set to "YES," the system will automatically calculate the number of days for the current month, quarter, and year. If not set, manual correction of days will be considered.
+
+**Days month**: Specify the number of days in a month. This value is taken into account when calculating prorata invoices.
+
+**Days quarter**: Specify the number of days in a quarter. This value is taken into account when calculating prorata invoices.
+
+**Days half year**: Specify the number of days in a half-year. This value is taken into account when calculating prorata invoices.
+
+**Days year**: Specify the number of days in a year. This value is taken into account when calculating prorata invoices.
+
+**Days two year**: Specify the number of days in two years. This value is taken into account when calculating prorata invoices.
+
+**Days three year**: Specify the number of days in three years. This value is taken into account when calculating prorata invoices.

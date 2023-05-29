@@ -1,0 +1,20 @@
+# Admin Area
+
+[![image-1684434476480.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684434476480.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684434476480.png)
+
+In the admin area of WHMCS, on the customer profiles, under the "Summary" tab, there is a section called "Other Actions" that provides a menu for administrators to synchronize the payment of all or selected services to a specific date.
+
+The menu looks like this:
+
+- Sync payment on 01 day of the month.
+- Sync All (11 services)
+- Sync Monthly (6 services)
+- Sync Quarterly (1 service)
+- Sync Semi-annual (1 service)
+- Sync Annual (1 service)
+- Sync Biennial (1 service)
+- Sync Triennially (1 service)
+
+By selecting the desired option from the menu, the extension will perform proration and generate a proration invoice for the specified services.
+
+This feature allows administrators to easily synchronize the payment cycles of services according to the chosen date, ensuring consistent billing and streamlining the management of customer accounts.
