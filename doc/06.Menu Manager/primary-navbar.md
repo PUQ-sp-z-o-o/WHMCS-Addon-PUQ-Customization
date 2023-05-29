@@ -9,8 +9,6 @@ When configuring the menu for the first time, it will be empty. To populate it w
 The menu builder consists of two parts:
 
 1. On the right-hand side, you have a panel for adding and editing menu items. In this panel, you will find the following fields:
-    
-    
     - Menu Name: Enter the name of the menu item that will be displayed in the client area. You can provide translations for all available languages.
     - Icon: Choose an icon for the menu item from the dropdown list.
     - Menu Link: Enter the URL to which the client will be redirected when clicking the menu item.
