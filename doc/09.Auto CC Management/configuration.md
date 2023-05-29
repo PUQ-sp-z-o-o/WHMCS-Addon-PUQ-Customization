@@ -1,0 +1,11 @@
+# Configuration
+
+[![image-1684338584624.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684338584624.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684338584624.png)
+
+**Enabled** - Enabling or disabling all custom functions of this extension affects the automation and visibility of its features in the client area. When extension disabled, the automation capabilities and related features provided by the extension will not be active or visible to clients. However, as an administrator, you will still have access to configure and utilize the extension's functionalities through the administration interface. This gives you the flexibility to control the visibility and automation aspects of the extension based on your specific needs and preferences.
+
+**Disable Auto CC -** The option to enable or disable the Auto CC function is available for users during the registration process. When enabled, users registering on the platform will have the Auto CC feature activated by default, allowing automatic credit card payments. On the other hand, if the Auto CC function is disabled, users registering on the platform will not have the Auto CC feature enabled, and they will need to manually set up their payment methods for making payments.
+
+**Button on client area -** The extention includes a convenient button widget in the client area that allows clients to easily toggle the Auto CC functionality on and off. The button widget appears as a visually appealing element, providing a clear and intuitive interface for clients to manage their Auto CC settings.
+
+**Label Auto CC -** The label that will be displayed in the client area, the default value will be displayed in case of not filling multilingual labels.

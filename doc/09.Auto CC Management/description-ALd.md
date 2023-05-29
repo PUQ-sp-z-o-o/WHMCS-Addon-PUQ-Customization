@@ -1,0 +1,17 @@
+# Description
+
+##### **CC Management**
+
+ **Auto CC Management** is a powerful extension included in the **PUQ Customization** module.
+
+With **Auto CC Management**, your clients have the ability to enable or disable automatic credit card payments. This means that they can choose whether they want their payments to be processed automatically using their saved credit card information or if they prefer to make manual payments each time.
+
+The extension offers several key functionalities:
+
+Easy Activation: Clients can activate the Auto CC feature during the registration process, ensuring a seamless and automated payment experience right from the start.
+
+Client Control: The module provides a button widget in the client area, allowing clients to conveniently toggle the Auto CC functionality on or off at any time. This empowers them with the flexibility to manage their payment preferences according to their needs.
+
+Global Management: As an administrator, you have the ability to enable or disable Auto CC for all clients with just one click. This centralized control simplifies the management of the feature across your entire client base.
+
+Status Overview: The module offers a clear overview of the number of clients who have Auto CC enabled and disabled. This information gives you valuable insights into the adoption and usage of the automatic payment feature among your client base.
