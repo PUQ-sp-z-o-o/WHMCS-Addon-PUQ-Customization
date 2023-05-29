@@ -1,0 +1,33 @@
+# Description
+
+## Menu Manager
+
+Description of the "Menu Manager" extension:
+
+The "Menu Manager" extension is a powerful and essential tool for managing the frontend in WHMCS. It provides a convenient and intuitive menu builder that will be displayed in the client area.
+
+Key features of the extension:
+
+1. Building a two-level menu with easy drag-and-drop of menu items. You can create and customize your own menu according to your needs.
+2. Multilingual support for menu items. You can specify different menu item names for different languages, allowing you to adapt the menu to different audiences.
+3. Ability to display menu items for logged-in clients, non-logged-in clients, or both. You can configure the visibility of menu items based on the client's authentication status.
+4. Each menu item can have a designated link. Users can navigate to different sections and pages by clicking on these links.
+5. Option to open links in new browser tabs. This is useful when you want users to be able to view the menu and navigate through links simultaneously.
+6. The extension also allows you to add separators in the menu to create a more structured and visually appealing layout.
+7. You can assign a personalized icon to each menu item, enhancing the visual appeal and helping clients intuitively navigate through the menu. The use of icons improves the overall user experience by providing visual cues and increasing client understanding of the menu structure.
+
+One of the notable features of the extension is the availability of pre-built menu templates that can be installed at any time. This enables you to quickly create menus and adapt them to your needs.
+
+The "Menu Manager" extension is a valuable tool for configuring and managing menus in WHMCS, providing convenient navigation for your clients and enhancing overall user efficiency.
+
+[![image-1684362601026.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684362601026.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684362601026.png)
+
+[![image-1684362601041.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684362601041.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684362601041.png)
+
+[![image-1684362601052.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684362601052.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684362601052.png)
+
+[![image-1684362601063.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684362601063.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684362601063.png)
+
+[![image-1684362601076.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684362601076.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684362601076.png)
+
+[![image-1684362601086.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684362601086.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684362601086.png)
