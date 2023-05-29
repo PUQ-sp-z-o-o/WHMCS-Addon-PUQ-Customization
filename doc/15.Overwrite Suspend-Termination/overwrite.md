@@ -1,0 +1,36 @@
+# Overwrite
+
+##### Screenshot of Overwrite Suspend/Termination configuration view by product
+
+[![image-1684439051060.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684439051060.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684439051060.png)
+
+##### Screenshot of Overwrite Suspend/Termination Configuration View by Group
+
+[![image-1684439057067.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684439057067.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684439057067.png)
+
+On the "Overwrite" page, there will be a list of products or groups to set the "Overwrite Suspension" and "Overwrite Termination" parameters.
+
+Here is a detailed description of the rules for setting these parameters:
+
+1. Overwrite Suspension:
+    
+    
+    - For a product: If you want to set personalized suspension parameters for a specific product, locate it in the product list on the "Overwrite" page. Check the "Overwrite Suspension" checkbox next to the corresponding product.
+    - For a group: If you want to apply personalized suspension parameters to all products within a specific group, find the corresponding group in the group list on the "Overwrite" page. Check the "Overwrite Suspension" checkbox next to it.
+2. Overwrite Termination:
+    
+    
+    - For a product: If you want to set personalized termination parameters for a specific product, locate it in the product list on the "Overwrite" page. Check the "Overwrite Termination" checkbox next to the corresponding product.
+    - For a group: If you want to apply personalized termination parameters to all products within a specific group, find the corresponding group in the group list on the "Overwrite" page. Check the "Overwrite Termination" checkbox next to it.
+
+Setting the parameters involves selecting the appropriate checkbox for each product or group on which you want to apply the overwrite for suspension or termination. You can choose products, groups, or both simultaneously.
+
+It is important to follow these rules:
+
+- The value of the "Overwrite Suspension" parameter should not exceed the value of the "Suspend Days" from the global configuration (if it is active).
+- The value of the "Overwrite Termination" parameter should not exceed the value of the "Termination Days" from the global configuration (if it is active).
+- The value of the "Overwrite Suspension" parameter should always be less than the value of the "Overwrite Termination" parameter if both parameters are active.
+
+Note that if there are changes in the global parameters (enabling suspension, suspension duration, enabling termination, termination duration), the overwritten parameters (Overwrite Suspension, Suspend Days, Overwrite Termination, Termination Days) will not be automatically adjusted.
+
+In the case of configuration by products, if a product is moved from one group to another, its parameters will not change. If configuration by groups is used, the product's parameters will depend on the group it belongs to.

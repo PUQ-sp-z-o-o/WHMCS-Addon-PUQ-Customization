@@ -1,0 +1,52 @@
+# Description
+
+## Overwrite Suspend/Termination
+
+This is a unique extension that allows overriding the suspension and termination days for services in case of non-payment. The extension extends the automation options for suspending and terminating services in WHMCS global settings. It provides the flexibility to set custom overrides for specific products or product groups, enabling efficient management of client service suspensions and terminations.
+
+Configuration:
+
+- Overwrite type: Specifies whether the overrides apply to individual products or product groups.
+- Cron: Determines the cron job to process the tasks, either running on every cron or daily.
+- Send Suspension Email: Enables sending suspension notification emails upon successful suspension.
+
+Parameter Rules: To set a parameter, enable the "Overwrite Suspension" and/or "Overwrite Termination" checkbox. The "Overwrite Suspension" parameter cannot exceed the "Suspend Days" value from the global configuration (if enabled). In such cases, the override setting will not take effect due to the global configuration. The "Overwrite Termination" parameter cannot exceed the "Termination Days" value from the global configuration (if enabled). In such cases, the override setting will not take effect due to the global configuration. The "Overwrite Suspension" parameter must always be less than the "Overwrite Termination" parameter (if enabled). The "Overwrite Termination" parameter must always be greater than the "Overwrite Suspension" parameter (if enabled). If the global parameters (Enable Suspension, Suspend Days, Enable Termination, Termination Days) are modified, the parameters (Overwrite Suspension, Suspend Days, Overwrite Termination, Termination Days) will not be adjusted accordingly.
+
+Behavior for Product-Based Processing: If the configuration is set to process overrides based on individual products:
+
+- If a product is moved from one group to another, its override settings will remain unchanged.
+
+Behavior for Group-Based Processing: If the configuration is set to process overrides based on product groups:
+
+- The product's parameters will depend on the group to which it belongs.
+
+Suspension Process:
+
+- Suspend action is triggered.
+- If the "Overwrite Suspension" checkbox is enabled for the product or its group.
+- The product is an active service for the client.
+- The service has an "Active" status.
+- The sum of the "Next Due Date" for the service and the "Overwrite Suspension" parameter is less than or equal to the cron execution date.
+- The suspend command of the corresponding module is executed. If the module returns a "Suspended" error, the system waits for the next cron execution and repeats the process (the behavior depends on the handling defined in the module).
+- If the module is not present on the service, the service's status is changed to "Suspended".
+
+Termination Process:
+
+- Termination action is triggered.
+- If the "Overwrite Termination" checkbox is enabled for the product or its group.
+- The product is a suspended service for the client.
+- The service has a "Suspended" status.
+- The sum of the "Next Due Date" for the service and the "Overwrite Termination" parameter is less than or equal to the cron execution date.
+- The termination command of the corresponding module is executed. If the module returns a "Terminated" error, the system waits for the next cron execution and repeats the process (the behavior depends on the handling defined in the module).
+- If the module is not present on the service, the service's status is changed to "Terminated".
+
+Invoice Handling:
+
+- If an invoice contains only one position that transitions to the "Terminated" status, the invoice is changed to "Cancelled".
+- If an invoice contains multiple positions, a new invoice (excluding the ID) is created with the status "Cancelled". The position that transitions to the "Terminated" status is added to the new invoice, while it is removed from the previous invoice.
+
+All configuration and Suspend/Termination actions are logged for diagnostic purposes.
+
+Purpose of this Functionality: Suppose you sell virtual machines, and a client fails to make the payment. On the same day, the extension can suspend the virtual machine service. However, if another client has purchased a more lucrative dedicated server and also missed the payment, you may want to inform them about the overdue invoice instead of immediately suspending their service. Since dedicated server services are more valuable and prestigious, this extension allows you to differentiate the suspension and termination priorities based on the services.
+
+The extension is designed for convenience and better management of service suspensions and terminations, while allowing prioritization and flexibility in handling different types of services.
