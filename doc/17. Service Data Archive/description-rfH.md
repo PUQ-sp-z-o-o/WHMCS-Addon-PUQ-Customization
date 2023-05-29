@@ -1,0 +1,15 @@
+# Description
+
+## Service Data Archive
+
+The "Service Data Archive" extension provides a way to collect and store service information for clients. The extension runs on a cron job and gathers the following data:
+
+**Client**: First name, last name, company name, email, address line 1, address line 2, city, state, postcode, country, phone number, tax ID.
+
+**Service**: Package name, registration date, billing cycle, termination date, username, dedicated IP, assigned IPs, notes, custom fields, created date.
+
+This data collection process is referred to as a "dump" because it gathers information about the client and their services in one place. This enables identification of the client even if they or their services have been deleted. The primary purpose of collecting service data is to control and preserve historical records of the client's services, such as the IP address. IP addresses often play a crucial role in cybercrimes committed by clients, and as a service provider, you may be obligated to provide your client's data to authorities in situations that require it. With this extension, finding a client based on the IP address associated with their service at a specific point in time becomes a seamless process.
+
+The extension also offers a convenient search feature using Client ID, Service ID, or a search term, allowing you to easily locate the desired data.
+
+Overall, the **"Service Data Archive"** extension helps you maintain control over and preserve historical service data, ensuring compliance with legal obligations and facilitating efficient client data management.

@@ -1,0 +1,18 @@
+# Search
+
+[![image-1684431644979.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684431644979.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684431644979.png)
+
+On the search page, you have the ability to search for service dumps using the following criteria: Client ID, Service ID, Search word.
+
+After entering the search criteria, the resulting service dump entries will be displayed in a table with the following fields:
+
+- Service: The name of the service.
+- Dump date: The date when the dump was created.
+- Dedicated IP: The dedicated IP address associated with the service (if available).
+- Assigned IPs: The assigned IP addresses associated with the service (if available).
+- Username: The username associated with the service.
+- Notes: Any additional notes related to the service.
+- Custom fields: Any custom fields associated with the service.
+- Client: Client information, including first name, last name, email, and other details.
+
+The table provides a convenient view of the search results, allowing you to easily review information about the found service dumps and facilitate the process of searching and managing data.
