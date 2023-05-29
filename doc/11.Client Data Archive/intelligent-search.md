@@ -1,0 +1,8 @@
+# Intelligent Search
+
+[![image-1684352874628.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684352874628.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684352874628.png)
+
+**Intelligent Search:**  
+The Intelligent Search feature is integrated into the WHMCS search system. When you enter any word or phrase into the WHMCS search, it performs a search across the database using a matching search word method. The results are displayed in the "Other Search Results" section of the search interface. This feature proves to be very useful for conducting searches in your day-to-day WHMCS administration tasks.
+
+The Intelligent Search functionality enhances the search capabilities within WHMCS, allowing you to quickly find relevant information by matching search terms against the recorded data. It provides an efficient way to retrieve specific records or entries that match your search criteria, assisting you in efficiently managing your WHMCS system.

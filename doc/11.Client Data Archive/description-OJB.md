@@ -1,0 +1,31 @@
+# Description
+
+## Client Data Archive
+
+The **"Client Data Archive"** extension is designed to collect and store client data every time it is modified. This extension is particularly useful for easily tracking changes made by clients and finding specific clients based on their updated information.
+
+The primary functionality of this extension is the ability to search for clients who have used the same IP address, allowing you to identify clients who may have multiple accounts. The integrated search feature seamlessly integrates with the WHMCS search system, making it convenient to locate clients based on their ID, IP address, or keywords.3
+
+<p class="callout warning">Important Note: Actions performed by an administrator while logged in as a client are not captured or recorded by the Client Data Archive extension. The extension records data when clients themselves make changes to their information. Therefore, any actions taken by an administrator posing as a client will not be saved, and the client will not be shown as online during that time. It's important to keep this distinction in mind when using the Client Data Archive extension and interpreting the online status of clients.</p>
+
+## Key Features:
+
+IP Address Search: The extension enables you to search for clients who share the same IP address, helping you identify potential duplicate accounts.
+
+##### Integrated Search:
+
+The extension integrates smoothly with the WHMCS search system, allowing you to perform searches by client ID, IP address, or keywords.
+
+##### Duplicate User Detection:
+
+You have the option to view a list of duplicated users based on their IP addresses, making it easier to manage and identify potential duplicate accounts.
+
+##### Online Client Monitoring:
+
+The extension provides the ability to view a list of clients who are currently online on your website. This real-time monitoring feature helps you stay informed about client activity.
+
+##### Admin Panel Widget:
+
+The extension includes a widget for the admin panel that displays the number of online clients in real-time, providing an overview of current client activity.
+
+The **"Client Data Archive"** extension enhances the functionality of your WHMCS system by providing valuable tools for tracking client data changes and managing client accounts more efficiently.

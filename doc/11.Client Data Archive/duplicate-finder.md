@@ -1,0 +1,15 @@
+# Duplicate Finder
+
+[![image-1684352732226.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684352732226.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684352732226.png)
+
+On the **"Duplicate Finder"** page, you will find a list of IP addresses along with the number of clients who have used each IP address to log in to the website. Please note that the list only includes IP addresses with multiple clients associated with them. IP addresses with only one client will not be displayed in the list.
+
+The table on the **"Duplicate Finder"** page contains the following fields:
+
+IP: This field displays the IP address for which duplicate client logins have been identified.
+
+Clients count: The "Clients count" field indicates the number of clients who have used the corresponding IP address for authentication.
+
+Clients ID: This field provides the client IDs or unique identifiers associated with each client who has used the IP address for login.
+
+The "Duplicate Finder" functionality allows you to identify IP addresses that have been used by multiple clients, indicating potential duplicate accounts or suspicious activity. By reviewing the table, you can gain insights into the IP addresses and the corresponding client counts, helping you manage and investigate any instances of duplicate client logins effectively.

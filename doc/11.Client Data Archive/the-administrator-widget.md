@@ -1,0 +1,11 @@
+# The administrator widget
+
+[![image-1684351931480.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684351931480.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684351931480.png)
+
+The administrator widget provides a summarized view of online clients and their IP addresses. It includes the following information:
+
+1. Online Client Count: This section displays the total number of clients currently online.
+2. List of Online Clients: This section presents a concise list of the clients who are currently online.
+3. IP Addresses: Alongside each online client, their corresponding IP address is displayed.
+
+The administrator widget offers a quick overview of the number of clients online and their IP addresses. This allows administrators to have an at-a-glance understanding of the current online client activity and easily access the information they need.

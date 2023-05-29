@@ -1,0 +1,14 @@
+# Whois Online
+
+[![image-1684351789077.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684351789077.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684351789077.png)
+
+On the **"Whois Online"** page, you will find a list of clients who are currently online, along with the following client data:
+
+1. Client: This column displays the client's username or display name.
+2. User: This column shows the user account associated with the client.
+3. IP: The IP column indicates the IP address from which the client is accessing the site.
+4. Browser/version/OS: This column provides information about the client's web browser, its version, and the operating system they are using.
+5. Location on site: This column specifies the location or page on your website where the client is currently active or browsing.
+6. Last activity: The "Last activity" column displays the timestamp or date and time of the client's most recent activity on the site.
+
+The page offers you real-time visibility into clients who are currently active and using your website. It allows you to monitor their activity, track their location on the site, and see details about their browsing environment, enhancing your ability to provide timely support or assistance when needed.
