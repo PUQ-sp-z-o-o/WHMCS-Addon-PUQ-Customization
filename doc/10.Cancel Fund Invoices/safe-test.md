@@ -1,0 +1,13 @@
+# Safe test
+
+[![image-1684347351765.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684347351765.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684347351765.png)
+
+On the **"Safe Test"** page, you have the following options and actions available:
+
+Preview Queued Invoices: This option allows you to view the invoices that are currently queued for cancellation or deletion without enabling the extension. It provides a list of invoices that are awaiting the action.
+
+Manual Cancellation: If you want to manually initiate the cancellation of invoices from the previewed list, there is a corresponding button available. By clicking this button, you can manually cancel the selected invoices.
+
+Manual Deletion: Similarly, if you wish to manually initiate the deletion of invoices from the previewed list, there is a separate button provided. Clicking this button will manually delete the selected invoices.
+
+These manual actions provide you with control over the cancellation and deletion processes, allowing you to review the queued invoices and to do process manually, without enabling the extension in automated mode.
