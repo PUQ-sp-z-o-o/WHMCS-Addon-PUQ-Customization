@@ -1,0 +1,19 @@
+# Description
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Dowload](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+The "Support Hours Widget" extension provides the ability to display a widget in the client area on the support ticket submission page, showing the support department's working hours and their online or offline status.
+
+In the module configuration, you can configure the following data:
+
+Panel Title: The title of the widget (supports multi-language).  
+Online Notice: The message to display when the support department is online (supports multi-language).  
+Offline Notice: The message to display when the support department is offline (supports multi-language).  
+Time Format: Choose between a 24-hour format or the American-style AM/PM format.  
+Additionally, you specify the working hours for the support department for each day of the week. You can also set a day as a non-working day or indicate 24/7 availability.
+
+Based on the configured data, the extension will display the appropriate widget to the client based on the current day of the week and time. It's important to note that the status will be processed according to the server's timezone in WHMCS, so it's advisable to set it according to your target audience's timezone.
+
+This widget enhances the customer experience by providing them with information about the support department's availability and working hours, helping them understand when they can expect assistance.
+
+[![image-1684364672117.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684364672117.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684364672117.png)

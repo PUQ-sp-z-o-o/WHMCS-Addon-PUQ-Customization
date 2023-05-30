@@ -1,0 +1,19 @@
+# Configuration
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Dowload](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+[![image-1684364815215.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684364815215.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684364815215.png)
+
+**Enabled** - Enabling or disabling all custom functions of this extension affects the automation and visibility of its features in the client area. When extension disabled, the automation capabilities and related features provided by the extension will not be active or visible to clients. However, as an administrator, you will still have access to configure and utilize the extension's functionalities through the administration interface. This gives you the flexibility to control the visibility and automation aspects of the extension based on your specific needs and preferences.
+
+The extension provides the ability to display a widget in the client area on the support ticket submission page, indicating the support team's working hours and their online or offline status.
+
+In the module configuration, you can set the following details:
+
+1. Panel Title: The title of the widget (supports multi-language). You can specify the header for the widget that will be displayed in the client area. For example, "Support Hours".
+2. Online Notice: The message displayed when the support team is online (supports multi-language). This message will be shown to the client when the support team is available to respond. For example, "We are online and will respond to your request soon!".
+3. Offline Notice: The message displayed when the support team is offline (supports multi-language). This message will be shown to the client when the support team is unavailable. For example, "We will reply the next business day.".
+4. Time format: The display format for time in the client area. You can choose between a 24-hour format or the AM/PM format.
+5. Days and times of technical support availability: You can specify the working hours for the support team for each day of the week. Additionally, you have the option to mark a specific day as a day off or as a 24-hour working day.
+
+Based on the configured settings, the extension will display the appropriate widget to the client, considering the working hours for each day of the week and the time of day. Please note that the support status will be processed based on the server's time zone in WHMCS, so it is advisable to set it according to your target audience's time zone.
