@@ -1,0 +1,21 @@
+# Description
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Dowload](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+### Blocking Ticket For Guests
+
+Description of the "Blocking Ticket For Guests" extension:
+
+The "Blocking Ticket For Guests" extension is a robust, effective tool for managing ticket submissions within the WHMCS environment. Its primary function is to prevent non-registered users, or guests, from submitting support tickets, thereby streamlining the ticketing process and focusing resources on assisting registered users.
+
+Key features of the extension include:
+
+1. **User Authentication:** The extension implements a user authentication check before a ticket is submitted. If the user is not logged in, they will be unable to submit a ticket.
+2. **Redirection of Unregistered Users:** In the event an unregistered user attempts to submit a ticket, they will be redirected to a login page. This ensures that only authenticated clients can interact with the support team through the ticketing system.
+3. **Custom Redirection:** The extension provides the flexibility to specify the redirection page. This can either be a specific page set in the configuration or a custom page with a defined HTML message.
+4. **Maintained Functionality for Registered Users:** For authenticated clients, the functionality remains unchanged. They are able to submit tickets to the support team without restrictions.
+5. **Menu Link Removal:** The extension also removes "Open Ticket" links from the primary and secondary menus for unregistered users, minimizing the likelihood of ticket submission attempts by guests.
+
+One notable aspect of the extension is the ability to customize redirections and messages, allowing it to be tailored to specific site requirements and providing users with a more intuitive and user-friendly feedback system.
+
+The "Blocking Ticket For Guests" extension is an invaluable tool for you seeking to optimize their WHMCS support ticket system, enhancing client navigation and simplifying support operations. With a focus on user authentication, it ensures that support resources are dedicated to assisting registered clients, thereby improving overall service efficiency and user satisfaction.
