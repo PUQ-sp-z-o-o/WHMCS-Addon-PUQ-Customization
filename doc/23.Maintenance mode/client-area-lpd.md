@@ -1,0 +1,25 @@
+# Client Area
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Dowload](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+### Templates displayed on the client area during maintenance mode
+
+#### Puq
+
+[![puq2.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/puq2.png)](https://doc.puq.info/uploads/images/gallery/2023-05/puq2.png)
+
+[![puq1.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/puq1.png)](https://doc.puq.info/uploads/images/gallery/2023-05/puq1.png)
+
+####  
+
+#### Basic
+
+[![basic1.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/basic1.png)](https://doc.puq.info/uploads/images/gallery/2023-05/basic1.png)
+
+[![basic2.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/basic2.png)](https://doc.puq.info/uploads/images/gallery/2023-05/basic2.png)
+
+#### Columns
+
+[![columns2.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/columns2.png)](https://doc.puq.info/uploads/images/gallery/2023-05/columns2.png)
+
+[![columns1.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/columns1.png)](https://doc.puq.info/uploads/images/gallery/2023-05/columns1.png)

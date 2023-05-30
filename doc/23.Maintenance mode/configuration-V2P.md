@@ -1,0 +1,45 @@
+# Configuration
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Dowload](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+**[![config1.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/config1.png)](https://doc.puq.info/uploads/images/gallery/2023-05/config1.png)**
+
+**Enabled** - Enabling or disabling all custom functions of this extension affects the automation and visibility of its features in the client area. When extension disabled, the automation capabilities and related features provided by the extension will not be active or visible to clients. However, as an administrator, you will still have access to configure and utilize the extension's functionalities through the administration interface. This gives you the flexibility to control the visibility and automation aspects of the extension based on your specific needs and preferences.
+
+**Enabled the Maintenance Mode** - You can easily activate or deactivate maintenance mode, which redirects all visitors to the maintenance page.
+
+**Deny access to admins** - Limit access to the WHMCS admin area for selected administrators. You can choose administrators whom you want to allow access to the admin panel during maintenance mode. (You cannot restrict access for yourself, as stated in the restriction.)  
+**Allowed** - A list of administrators who are granted access to the admin panel during maintenance mode.  
+**Denied** - A list of administrators who are denied access to the admin panel during maintenance mode.
+
+**Your Redirect URL** - Set your own URL for redirect to display in the client area during maintenance mode
+
+<p class="callout warning">If the **Use default Redirect URL** option is enable, **Your Redirect URL** option will not work.</p>
+
+**Use default Redirect URL** - Enable this option to use our custom tamplates.
+
+<p class="callout warning">If the **Use default Redirect URL** option is disable, custom templates and all subsequent options will not work.</p>
+
+**Template** - Choose from ready-made page templates to display in the client area during maintenance mode.
+
+<p class="callout info">You have the option to add your custom template! More information:</p>
+
+**Background image** - You can add your own background image to the page displayed in the client area during maintenance mode. Just enter the image link in this field.
+
+<p class="callout info">If you leave this field blank, the default image will be used.</p>
+
+**Use system default logo** - Enable this option to use the logo you have set in the general settings of WHMCS.
+
+**Logo URL** - You can add your own logo to the page displayed in the client area during maintenance mode. Simply enter the image link in this field.
+
+<p class="callout info">If you leave this field blank and the "Use system default logo" option is disabled, no space for the logo will be displayed on the page.</p>
+
+**Page title** - Set your own title for the page displayed in the client area during maintenance mode (supports multi-language).
+
+**Page text** - Set your own message about the technical work for the page displayed in the client area during maintenance mode (supports multi-language).
+
+**Enable Time Counter** - Enable this option to add a timer that will be displayed in the client area during maintenance mode.
+
+**End date** - Choose the date and time when the timer will expire.
+
+**Time Counter end text** - You can specify the text that will be displayed below the timer when the time expires if you are unable to finish the technical work before the timer ends (supports multi-language).
