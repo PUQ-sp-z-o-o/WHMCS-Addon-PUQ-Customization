@@ -1,5 +1,7 @@
 # Description
 
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Dowload](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
 ## PUQ Customization
 
 Our PUQ Customization module is designed to customize the standard functionality of the WHMCS system. The main feature of our module is that it contains a vast array of extension functions for WHMCS, which sets it apart from similar modules offered by our competitors. Instead of having separate modules for each functional extension, our solution provides a comprehensive set of functional extensions that are regularly updated and added, all in one module. Some of these extensions are also available for free. Additionally, our module offers a convenient and intuitive interface for managing these custom additions.
