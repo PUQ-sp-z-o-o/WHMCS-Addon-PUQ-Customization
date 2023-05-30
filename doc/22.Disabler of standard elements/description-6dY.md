@@ -1,0 +1,23 @@
+# Description
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Dowload](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+## Disabler of Standard Elements
+
+The "Disabler of Standard Elements" is an integral component of our PUQ Customization module, designed to offer a higher degree of control over the standard WHMCS interface. This extension affords you the ability to disable specific standard elements such as navigation bars, sidebars, and panels within the client area, thereby providing a cleaner and more focused user experience.
+
+The key functionality of our extension lies in its ability to custom tailor the WHMCS system's appearance without altering the core code. It's not merely a theme or hook; rather, it's a collection of logical extensions that enables you to modify your WHMCS frontend in a way that suits your specific business needs while maintaining a universal graphic design across different themes.
+
+One of the distinct features of this extension is its seamless compatibility and multilingual support. Without the need to manually edit language files, it fully supports multilingual capabilities, making it highly accessible and user-friendly. Its settings are easily adjustable, allowing you to modify the extension as per your requirements.
+
+Each functionality within the extension can be enabled or disabled with ease to ensure smooth operation and prevent any conflicts with other modules.
+
+A glimpse into the functionalities offered by the Disabler of Standard Elements extension:
+
+1. **Disable Navigation Bars:** This functionality allows you to hide navigation bars, thereby providing a clean and distraction-free interface.
+2. **Disable Sidebars:** By removing the sidebars, this functionality helps in creating a more targeted and focused user experience.
+3. **Disable Panels:** This feature helps you to simplify the client area by allowing you to hide specific panels, thus reducing complexity.
+4. **Multilingual Support:** No need to edit language files manually as the extension comes with built-in multilingual support.
+5. **Universal Compatibility:** The extension is designed to work seamlessly with different themes, ensuring a consistent user experience.
+
+This description provides just a snapshot of the extensive range of features and functionalities offered by our "Disabler of Standard Elements" extension. We continuously strive to update and improve our module based on your feedback and needs. We believe that this extension will serve as a powerful tool for creating a unique and customizable WHMCS experience for you and your clients.

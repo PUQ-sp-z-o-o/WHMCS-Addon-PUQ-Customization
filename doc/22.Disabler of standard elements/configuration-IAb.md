@@ -1,0 +1,47 @@
+# Configuration
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Dowload](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+[![image-1684744373752.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684744373752.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684744373752.png)The "Blocking Ticket for Guests" extension configuration page, a part of the PUQ Customization WHMCS Addon, offers a robust set of options to enhance your WHMCS user experience:
+
+1. **Enable or Disable All Custom Functions**: If set to YES, this will enable all custom functions. If set to NO, it will disable them.
+2. **Turn Off Client Area Primary Sidebar**: This option allows you to disable and enable the primary sidebar in the client area for either guests or registered users. The following items in the primary sidebar can be individually controlled:
+    
+    
+    - **Client Details Sidebar**
+    - **Sidebar Invoices Summary**
+    - **My Invoices Status Filter**
+    - **My Services Status Filter**
+    - **My Domains Status Filter**
+    - **My Quotes Status Filter**
+    - **Ticket List Status Filter**
+    - **Network Status**
+    - **Account**
+    - **Profile**
+    - **Already Registered**
+3. **Turn Off Client Area Secondary Sidebar**: Similar to the primary sidebar, you can also control visibility of elements in the secondary sidebar for either guests or registered users. Elements in the secondary sidebar that can be individually controlled include:
+    
+    
+    - **Sidebar Categories on Store**
+    - **Sidebar Actions on Store**
+    - **Sidebar Announcements Months**
+    - **Sidebar Support Knowledgebase Categories**
+    - **Sidebar Popular Downloads**
+    - **Sidebar Support**
+    - **Sidebar Domains Actions**
+    - **Sidebar Shortcuts**
+    - **Sidebar My Services Actions**
+    - **Sidebar Contacts**
+    - **Sidebar Billing**
+    - **Sidebar Recent Tickets**
+    - **Sidebar Choose Currency on Store**
+4. **Turn Off Client Area Homepage Panels**: You can disable and enable various panels on the client area homepage. The following panels can be individually controlled:
+    
+    
+    - **Overdue Invoices Panel**
+    - **Active Products/Services Panel**
+    - **Register a New Domain Panel**
+    - **Recent Support Tickets Panel**
+    - **Recent News Panel**
+
+Each of these options is accompanied by a YES or NO dropdown box, allowing you to enable or disable the corresponding element as needed. Please make sure to save your changes after adjusting these settings.
