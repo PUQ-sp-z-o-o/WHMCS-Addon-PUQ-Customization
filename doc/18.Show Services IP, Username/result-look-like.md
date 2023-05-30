@@ -1,0 +1,15 @@
+# Result look like
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Dowload](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+##### Displaying a list of services in the client area has been introduced
+
+[![image-1684366005384.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684366005384.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684366005384.png)
+
+##### Invoice presented in client panel
+
+[![image-1684366047583.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684366047583.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684366047583.png)
+
+##### Presented invoice in PDF format
+
+[![image-1684366075859.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684366075859.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684366075859.png)

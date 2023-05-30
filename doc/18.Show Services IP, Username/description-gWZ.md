@@ -1,0 +1,18 @@
+# Description
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Dowload](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+## Show Services IP, Username
+
+The extension allows for displaying the IP address and/or username of services in the service list within the client area. This feature enables clients to conveniently identify their services, especially when they have multiple ones.
+
+Additionally, the extension allows adding the IP address and/or username of a service to the description of the corresponding item on the invoice. This functionality proves useful for both clients and you as it helps in identifying the service in relation to its position on the invoice.
+
+The extension's configuration includes the following options:
+
+1. Show IP on the invoices: This option determines whether the IP address should be displayed on the invoices.
+2. Show IP in the lists of services in the client area: This option controls the display of the IP address in the service lists within the client area.
+3. Show Username on the invoices: This option specifies whether the username should be shown on the invoices.
+4. Show Username in the lists of services in the client area: This option governs the visibility of the username in the service lists within the client area.
+
+These configuration settings provide flexibility in choosing which elements to display, allowing you to customize the visibility of IP addresses and usernames according to your preference and the needs of your clients.
