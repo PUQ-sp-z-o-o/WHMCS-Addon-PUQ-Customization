@@ -1,0 +1,16 @@
+# Admin area
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Dowload](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+[![image-1684363597426.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/image-1684363597426.png)](https://doc.puq.info/uploads/images/gallery/2023-05/image-1684363597426.png)
+
+To set a date for when a service will be suspended, follow these steps:
+
+1. Locate the specific service for which you want to configure the suspension. This can typically be done through the service management section or client management area of your administration panel.
+2. Access the configuration settings for the chosen service. This may involve selecting the service and navigating to its details page or accessing an edit option for the service.
+3. Look for the "Suspend After" field or checkbox within the service configuration. Enable the checkbox to activate the suspension feature.
+4. Enter the desired date and time when the service should be suspended. This can usually be done by selecting a calendar date and inputting the time or by entering the date and time manually in a specific format.
+5. Provide a reason or explanation for the suspension. This helps communicate the purpose of the suspension to both the client and the support team.
+6. Save the changes to update the configuration for the service. This ensures that the specified suspension date and reason are applied.
+
+By following these steps, you can effectively set a specific date and time for suspending a service, ensuring that it will be automatically blocked according to your configuration.
