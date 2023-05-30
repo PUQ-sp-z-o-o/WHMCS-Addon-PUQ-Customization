@@ -1,0 +1,33 @@
+# Configuration
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Dowload](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+**[![config.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/7Vaconfig.png)](https://doc.puq.info/uploads/images/gallery/2023-05/7Vaconfig.png)**
+
+**Enabled** - Enabling or disabling all custom functions of this extension affects the automation and visibility of its features in the client area. When extension disabled, the automation capabilities and related features provided by the extension will not be active or visible to clients. However, as an administrator, you will still have access to configure and utilize the extension's functionalities through the administration interface. This gives you the flexibility to control the visibility and automation aspects of the extension based on your specific needs and preferences.
+
+**Enable Cookie Consent Message** - You can easily activate or deactivate the cookie law notice, which will be shown to users as a notice at the bottom of the page.
+
+<p class="callout info">You can customize the banner for your website in the "Cookie Banner" tab. More information:</p>
+
+##### Client Data Deletion Request:
+
+**Widget Title** - Set your own title for the widget displayed in the client area on the Account Details page (supports multi-language).
+
+**Button Request Delete Client Data** - Enable this option to include and display a button for clients to request the deletion of their data.
+
+<p class="callout warning">If this button is not enabled, the entire widget will not be displayed in the client area.</p>
+
+**Button Request Delete Client Data Label** - Set your own label for the button requesting the deletion of client data, displayed in the client area on the Account Details page (supports multi-language).
+
+**Ticket Department** - Choose the department to which the ticket will be opened when the client clicks the button to request the deletion of their data.
+
+**Ticket Subject** - Set your own subject for the ticket that will be opened when the client clicks the button to request the deletion of their data (supports multi-language).
+
+**Ticket Message** - Set your own message for the ticket that will be opened when the client clicks the button to request the deletion of their data (supports multi-language).
+
+**Ticket Priority** - Set the priority for the submitted ticket that will be opened when the client clicks the button to request the deletion of their data.
+
+**Successful Title** - Set your own title that will be displayed to the client upon successful submission of the ticket when they click the button to request the deletion of their data (supports multi-language).
+
+**Error Message** - Set your own error message that will be displayed to the client in case of an error while submitting the ticket when they click the button to request the deletion of their data (supports multi-language).

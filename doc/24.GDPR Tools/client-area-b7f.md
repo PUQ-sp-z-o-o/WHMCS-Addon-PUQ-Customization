@@ -1,0 +1,31 @@
+# Client Area
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Dowload](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+## Cookie Consent Banner
+
+##### Banner position: **Bottom Right**
+
+**[![banner right.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/banner-right.png)](https://doc.puq.info/uploads/images/gallery/2023-05/banner-right.png)**
+
+##### Banner position: **Bottom Center**
+
+**[![banner center.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/banner-center.png)](https://doc.puq.info/uploads/images/gallery/2023-05/banner-center.png)**
+
+##### Banner position: **Bottom Left**
+
+**[![banner left.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/banner-left.png)](https://doc.puq.info/uploads/images/gallery/2023-05/banner-left.png)**
+
+### Request Delete Client Data
+
+##### Request Delete Client Data **widget**
+
+[![Request Delete Client Data.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/request-delete-client-data.png)](https://doc.puq.info/uploads/images/gallery/2023-05/request-delete-client-data.png)
+
+##### Request Delete Client Data **Successful** 
+
+**[![Request Delete Client Data success.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/request-delete-client-data-success.png)](https://doc.puq.info/uploads/images/gallery/2023-05/request-delete-client-data-success.png)**
+
+##### Request Delete Client Data **Error**
+
+[![Request Delete Client Data err.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/request-delete-client-data-err.png)](https://doc.puq.info/uploads/images/gallery/2023-05/request-delete-client-data-err.png)

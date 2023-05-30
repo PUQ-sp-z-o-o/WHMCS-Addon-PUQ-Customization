@@ -1,0 +1,40 @@
+# Cookie Banner
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Dowload](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+[![cookie Banner.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/cookie-banner.png)](https://doc.puq.info/uploads/images/gallery/2023-05/cookie-banner.png)
+
+#####  
+
+##### This configuration will help you customize the cookie consent banner message on your website to match your site's style.
+
+**Enable Cookie Consent Message** - You can easily activate or deactivate the cookie law notice, which will be shown to users as a notice at the bottom of the page.
+
+**Position** - Select one of the positions on the page for the cookie consent banner message.
+
+**Banner Width** - Set the width of the cookie consent banner message on the page (does not work with **Position: bottom center**).  
+You can enter the width in the following formats: "100", "100px", "100%".
+
+**Banner Background Color** - Choose the background color of the cookie consent banner message.
+
+**Banner Shadow Color** - Choose the shadow color of the cookie consent banner message.
+
+**Cookie massage label** - Set your own headline for the cookie consent banner message (supports multi-language).
+
+**Cookie message** - Set your own message for the cookie consent banner message (supports multi-language).
+
+**Cookie Info Link** - Add your own privacy policy page link.
+
+**Cookie Info Label** - Set your own label for the information button on the cookie consent banner message (supports multi-language).
+
+**Info Background Color** - Choose the background color of the information button on the cookie consent banner message.
+
+**Info Shadow Color** - Choose the shadow color of the information button on the cookie consent banner message.
+
+**Cookie Accept Label** - Set your own label for the accept button on the cookie consent banner message (supports multi-language).
+
+**Accept Background Color** - Choose the background color of the accept button on the cookie consent banner message.
+
+**Accept Shadow Color** - Choose the shadow color of the accept button on the cookie consent banner message.
+
+<p class="callout info">You can also click **"Set Default Color"** to set the default colors.</p>

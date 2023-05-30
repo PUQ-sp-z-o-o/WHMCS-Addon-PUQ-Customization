@@ -1,0 +1,21 @@
+# Deletion Request Table
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Dowload](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+[![table.png](https://doc.puq.info/uploads/images/gallery/2023-05/scaled-1680-/Hzgtable.png)](https://doc.puq.info/uploads/images/gallery/2023-05/Hzgtable.png)
+
+**Deletion Request Table** is a table that contains information about user data deletion requests. It includes the following columns: User ID, First Name, Last Name, Company Name, Ticket, Status, Create Date, and Update Date.
+
+The table is useful for several reasons:
+
+**Tracking Deletion Requests**: It allows you to track and manage user requests for data deletion. Each entry in the table represents a specific request made by a user.
+
+**User Identification**: The User ID, First Name, and Last Name columns provide quick links to access detailed information about the user, enabling easy identification and retrieval of client records.
+
+**Ticket Management**: The Ticket column provides a link to the description of the deletion request ticket. This helps in understanding the specific details and requirements of the request.
+
+**Status Monitoring**: The Status column indicates the current status of each deletion request. It allows you to track whether a request is pending, completed, or in progress, providing visibility into the progress of data deletion operations.
+
+**Audit Trail**: The Create Date and Update Date columns provide timestamps for when the deletion request was initially created and when it was last updated. This information can be valuable for audit purposes or to ensure compliance with data protection regulations.
+
+In summary, the **Deletion Request Table** serves as a centralized repository for managing and monitoring user data deletion requests, providing a convenient way to access user information and track the progress of deletion operations.
