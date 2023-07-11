@@ -18,7 +18,7 @@ Moreover, each extension can be easily enabled or disabled for seamless usage an
 
 >please note that this list is not exhaustive
 
-### [Module puqProxmoxKVM](https://doc.puq.info/books/puq-customization-whmcs-addon/chapter/module-puqproxmoxkvm))
+### [Module puqProxmoxKVM](https://doc.puq.info/books/puq-customization-whmcs-addon/chapter/module-puqproxmoxkvm)
 
 PUQ ProxmoxKVM module management extension
 
