@@ -2,6 +2,18 @@
 
 #####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Dowload](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
 
+### v1.2 Released 11-07-2023
+1. Change in "Page Manager" (v1.1.1)
+   * Added to tinymce editor <style> tag permission
+2. Change in "OverwriteTaxRules" (v1.1)
+3. Add ModulePuqProxmoxKVM (PUQ ProxmoxKVM module management extension)
+4. Change in "ProratedNextDueDate" (v1.0.1)
+   * Excluded from propata are those who are in line for terminated
+   * Fixed a bug with duplicate service data on the invoice.
+6. Change in "ShowServicesIpUsername" (v1.1)
+   * If the IP is empty or 0.0.0.0 then we take the first one with assigned ips
+
+
 ### v1.1.1 Released 29-06-2023
 1. Change in "**Page Manager**" (v1.1)
    * Added PUQMiniMenu widget
