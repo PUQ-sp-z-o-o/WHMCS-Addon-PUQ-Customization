@@ -106,4 +106,8 @@ Displays a support hours widget in the top of the sidebar on the submit ticket p
 
 Allows setting a specific date and time for suspending client services.
 
-Please note that this is just a glimpse of the extensive range of features and functionality provided by our module.
+### [Admin Panel Unique](https://doc.puq.info/books/puq-customization-whmcs-addon/chapter/admin-panel-unique)
+
+Customization of the admin panel, changing colors, logo and more.
+
+>Please note that this is just a glimpse of the extensive range of features and functionality provided by our module.
