@@ -1,0 +1,46 @@
+# DNS Zones
+
+**Instructions: Configuring DNS Synchronization for Virtual Machines in puqProxmoxKVM**
+
+In order to enable DNS records synchronization for virtual machines managed by the puqProxmoxKVM module, you have the option to create DNS zones. A DNS zone is an object that is part of the API connection configuration to the DNS provider, allowing the puqProxmoxKVM module to synchronize DNS records.
+
+**How it Works:**
+
+1. When creating a new service, modifying an existing one, or when a client requests a change to their virtual machine's revDNS record, the module will attempt to find the corresponding DNS zone for synchronization. 
+    - Forward Zone: The domain and subdomain are taken from the service's Domain field, and the module matches them with the added zones. If there's a match, it performs actions to synchronize the A and AAAA records. The IPv4 address is taken from the Allocated IP field for the service, and for IPv6 synchronization, the first available IPv6 address for that service is used.
+    - Reverse Zone: All IP addresses are converted into a DNS zone, which is then compared with the list of existing zones. When there's a match, the records are synchronized.
+
+By synchronization, it means that the records will be removed from the remote server and then recreated. Except for service creation, where records are created without deletion. Also, when a service is deleted, the records will be deleted and not recreated.
+
+<p class="callout info">After adding the zone, you can click the "Test Zone" button to verify the correctness of the added data and perform a test on the DNS provider using the API.</p>
+
+#### **Supported DNS Providers:**
+
+##### cloudflare.com
+
+- - Required data for zone creation: 
+        - Zone Name
+        - Zone ID
+        - Account ID
+        - API Token Before adding a zone, you must create the zone on the service and obtain all the necessary data with sufficient access rights.
+
+[![image-1689683701572.png](https://doc.puq.info/uploads/images/gallery/2023-07/scaled-1680-/image-1689683701572.png)](https://doc.puq.info/uploads/images/gallery/2023-07/image-1689683701572.png)
+
+##### HestiaCP Server
+
+- - Required data for zone creation: 
+        - Zone
+        - Hestiacp server
+        - Hestiacp admin user
+        - Hestiacp admin password
+        - User (The user who will be the holder of the DNS zones) When adding a zone, create it on the remote server and allow WHMCS access to the HestiaCP server via API.
+
+[![image-1689683714654.png](https://doc.puq.info/uploads/images/gallery/2023-07/scaled-1680-/image-1689683714654.png)](https://doc.puq.info/uploads/images/gallery/2023-07/image-1689683714654.png)
+
+**Note:**
+
+- The synchronization will occur for all matching zones. If you add two identical zones on different DNS providers, synchronization will occur for both of these identical zones.
+- Synchronization is not instantaneous but occurs at scheduled cron tasks and may take some time.
+- If there are any connection errors or other issues during the synchronization process, they will be logged in the module's logs. Synchronization errors will not stop the service or disrupt automation processes.
+
+[![image-1689685209271.png](https://doc.puq.info/uploads/images/gallery/2023-07/scaled-1680-/image-1689685209271.png)](https://doc.puq.info/uploads/images/gallery/2023-07/image-1689685209271.png)
