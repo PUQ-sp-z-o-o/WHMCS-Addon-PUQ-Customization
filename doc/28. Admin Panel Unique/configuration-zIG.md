@@ -1,0 +1,19 @@
+# Configuration
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+[![2023-07-14_12-34.png](https://doc.puq.info/uploads/images/gallery/2023-07/scaled-1680-/2023-07-14-12-34.png)](https://doc.puq.info/uploads/images/gallery/2023-07/2023-07-14-12-34.png)
+
+**Enabled** - enabling or disabling all user features of this extension affects the visibility of its modifications in the admin area. When the extension is disabled, the functionalities associated with it, provided by the extension, will not be active or visible to administrators. When the extension is disabled, the default WHMCS theme will be applied.
+
+<p class="callout info">If you select 'NO' in the Enabled option, in such a case, the data will be automatically saved.</p>
+
+<p class="callout info">If Enabled is set to 'NO', in such a case, the color selection fields will be disabled.</p>
+
+**Choose themes** - this section includes several themes to choose from, namely Standard, Shades of blue, Shades of purple, Shades of green, and Shades of turquoise.
+
+**Choose the colors** - in this section, you will find fields for selecting colors. You can choose any color and adjust the transparency if required according to your preferences.
+
+**Example** - in this section, you will find elements of the WHMCS admin panel where you can observe real-time changes.
+
+**Save Changes** - a button to save the modifications.
