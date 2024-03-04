@@ -1,0 +1,13 @@
+# Safe test
+
+[![image-1707907643159.png](https://doc.puq.info/uploads/images/gallery/2024-02/scaled-1680-/image-1707907643159.png)](https://doc.puq.info/uploads/images/gallery/2024-02/image-1707907643159.png)
+
+**Invoices for cancel** - Unpaid invoices whose products have a status of cancelled and the termination date of the products is not closer than a month ago to the current date.
+
+**Invoices for delete** - Invoice items that have a status of cancelled and the termination date of the products is not closer than a month ago to the current date.
+
+<p class="callout info">All of this happens automatically as described in the configuration you've set up, but there's also the option to perform all actions manually.</p>
+
+**Run action Cancel** - Manual execution of the function that changes the status of all unpaid invoices whose products have a status of cancelled, and the termination date of the products is not closer than a month ago to the current date, to cancelled.
+
+**Run action Delete** - Manual execution of the function that deletes invoice items that have a status of cancelled and the termination date of the products is not closer than a month ago to the current date.

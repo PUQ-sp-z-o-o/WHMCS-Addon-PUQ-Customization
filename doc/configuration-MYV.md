@@ -1,0 +1,15 @@
+# Configuration
+
+[![image-1707825089516.png](https://doc.puq.info/uploads/images/gallery/2024-02/scaled-1680-/image-1707825089516.png)](https://doc.puq.info/uploads/images/gallery/2024-02/image-1707825089516.png)
+
+**Enabled** - Enabling or disabling all custom functions of this extension affects the automation and visibility of its features in the client area. When the extension is disabled, the automation capabilities and related features provided by the extension will not be active or visible to clients. However, as an administrator, you will still have access to configure and utilize the extension's functionalities through the administration interface. This gives you the flexibility to control the visibility and automation aspects of the extension based on your specific needs and preferences.
+
+**Server URL** - The URL of your Mattermost server to which you want to send all data and notifications. Please be careful when filling out this field as it is one of the most important in this extension. When entering, it is very important to maintain the correct structure: before the domain or IP address, enter http:// or https://, depending on your server settings, and then add a trailing slash (/).
+
+**Access Token** - This is the personal token of the administrator from whose account all notifications will be sent. You can obtain this token by following the instructions here: [https://docs.mattermost.com/developer/personal-access-tokens.html](https://docs.mattermost.com/developer/personal-access-tokens.html)
+
+<p class="callout danger">The user role from which notifications will be sent must be **System Admin**. Otherwise, most of the functionality may not work properly.</p>
+
+**Test Connection** - Button to test the connection to the server.
+
+<p class="callout warning">Click this button after "**Save Changes**" to ensure that the test runs correctly.</p>

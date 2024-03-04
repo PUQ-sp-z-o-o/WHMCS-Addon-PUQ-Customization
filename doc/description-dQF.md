@@ -1,0 +1,13 @@
+# Description
+
+The "**Mattermost Export**" extension establishes a unidirectional link from your WHMCS server to your Mattermost workspace, facilitating seamless communication and timely notifications for events. This extension is designed to efficiently transmit updates regarding new tickets, payments, client responses to tickets, and reports deliveries directly to your Mattermost messenger.
+
+Key Features:
+
+- Ticket Notifications: Receive instant notifications in your designated Mattermost channels whenever a new ticket is created in your WHMCS system. Stay informed of client inquiries and support requests without the need to continuously monitor your WHMCS dashboard.
+- Payment Alerts: Stay up-to-date on payment activities by receiving notifications in Mattermost whenever a new invoice is paid by a client. This feature ensures that you are promptly notified of successful transactions, enabling you to maintain accurate financial records and provide timely service delivery.
+- Client Interaction Updates: Receive notifications in Mattermost when clients respond to tickets, allowing you to engage with client inquiries and provide timely assistance. This feature enhances communication efficiency by ensuring that your team is promptly alerted to client interactions within your WHMCS platform.
+- Report Delivery: Streamline the distribution of reports by automatically sending them to designated Mattermost channels or users. Keep your team informed of important metrics, financial summaries, or other relevant data without the need for manual distribution.
+- Customizable Notification Settings: Tailor the notification preferences to suit your team's needs with customizable settings. Specify the types of notifications to be sent to Mattermost, adjust notification channels, and fine-tune the integration to align seamlessly with your workflow.
+
+Overall, the "**Mattermost Export**" extension enhances collaboration and efficiency by delivering timely notifications for key events within your WHMCS system directly to your Mattermost messenger. By leveraging this integration, you can ensure that your team stays informed, responsive, and coordinated, ultimately enhancing customer service and operational effectiveness.

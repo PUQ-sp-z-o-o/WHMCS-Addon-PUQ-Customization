@@ -1,0 +1,19 @@
+# Promo Sets
+
+[![Promo Code Sets.png](https://doc.puq.info/uploads/images/gallery/2024-01/scaled-1680-/promo-code-sets.png)](https://doc.puq.info/uploads/images/gallery/2024-01/promo-code-sets.png)
+
+**Add New Promo Set** - upon clicking this button, a template for creating a Promo Set is opened. For more information about creating/editing/deleting promo sets, please refer to the following link: **[Click here](https://doc.puq.info/books/puq-customization-whmcs-addon/page/addeditdelete-promo-set)**
+
+**Table**:
+
+- **ID:** Promo Set ID
+- **Set Name/ API Ip Address:** This cell contains the Promo Set name, API IP Address, and URL for cURL requests.
+- **Promo Code Type:** Indicates the types of promo codes that can be created in the future. These may include: Percentage, Fixed Amount, Price Override, Free Setup.
+- **Value:** Specifies the value to be set in the created promo codes.
+- **Recurring:** Indicates the discount will apply or not to renewal invoices. If enabled, specifies the frequency of use.
+- **Max Uses:** Specifies the maximum number of times this promo code can be used, i.e., the number of clients who can use it.
+- **Start Date:** The date when the promo code starts to be effective.
+- **Expiry Date:** The date when the promo code expires.
+- **Notes:** Admin notes.
+
+<p class="callout info">To open the editing template, click on either the set name or the ID.</p>

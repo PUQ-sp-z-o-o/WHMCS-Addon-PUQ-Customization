@@ -1,0 +1,7 @@
+# Description
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+## Export Tools
+
+The "**ExportTool**" extension for WHMCS is a powerful and flexible tool designed to facilitate the export of data in JSON and XML format directly from WHMCS tables. It allows you to create unlimited groups of tables for targeted data management and extraction. With the inclusion of "WHERE" conditions that can be combined using "AND", it offers granular control over the data being exported. Each table group generates a unique URL, providing secure and direct access to the exported data. Additionally, the extension supports data pagination, ensuring efficient data retrieval and handling, even for large datasets. Moreover, the tool enables external applications to connect and access data seamlessly, offering an ideal solution for integrating WHMCS data with third-party software and services. This combination of features makes the ExportTool extension an essential utility for advanced data integration and management within the WHMCS ecosystem.

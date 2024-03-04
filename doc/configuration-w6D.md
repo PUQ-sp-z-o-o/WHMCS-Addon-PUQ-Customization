@@ -1,0 +1,9 @@
+# Configuration
+
+##### [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Dowload](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+[![config.png](https://doc.puq.info/uploads/images/gallery/2024-01/scaled-1680-/config.png)](https://doc.puq.info/uploads/images/gallery/2024-01/config.png)
+
+**Enabled** - Enabling or disabling all custom functions of this extension affects the automation and visibility of its features in the client area. When extension disabled, the automation capabilities and related features provided by the extension will not be active or visible to clients. However, as an administrator, you will still have access to configure and utilize the extension's functionalities through the administration interface. This gives you the flexibility to control the visibility and automation aspects of the extension based on your specific needs and preferences.
+
+**Json Pretty Print** - The "Json Pretty Print" option enables the JSON\_PRETTY\_PRINT function, which formats the response, following a CURL request, into a neatly organized JSON structure. When this option is activated, the output data received after the CURL request will be formatted considering the nested objects and arrays, making it easier to comprehend and analyze.

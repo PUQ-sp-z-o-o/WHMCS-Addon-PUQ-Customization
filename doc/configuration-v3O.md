@@ -1,0 +1,17 @@
+# Configuration
+
+[![image-1707901453761.png](https://doc.puq.info/uploads/images/gallery/2024-02/scaled-1680-/image-1707901453761.png)](https://doc.puq.info/uploads/images/gallery/2024-02/image-1707901453761.png)
+
+**Enabled** - Enabling or disabling all custom functions of this extension affects the automation and visibility of its features in the client area. When extension disabled, the automation capabilities and related features provided by the extension will not be active or visible to clients. However, as an administrator, you will still have access to configure and utilize the extension's functionalities through the administration interface. This gives you the flexibility to control the visibility and automation aspects of the extension based on your specific needs and preferences.
+
+**Enable Cancellation Request** - Enable or disable cancellation request functions.
+
+**Cancellation Type** - Choose type of cancellation request to allow the client.
+
+**Enable auto cancel invoices** - Enable or disable automatic transfer of invoices to the cancel state, services that are currently terminated
+
+**Cron** - Choose the cron job during which the cancellation request will be executed
+
+**Action** - What should happen to the invoice: "Cancel" or "Cancel, then Delete"
+
+**Auto Delete invoices after** - The number of days the invoice must be in the Cancel state after which the invoice will be automatically deleted (only applies when Action = "Cancel-&gt;Delete").

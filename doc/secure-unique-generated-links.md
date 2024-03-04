@@ -1,0 +1,21 @@
+# Secure, Unique Generated Links
+
+#### To get a generated link:
+
+- Clicking on the set name or ID opens a template for editing a Promo Set.
+
+[![edit promo set.png](https://doc.puq.info/uploads/images/gallery/2024-01/scaled-1680-/edit-promo-set.png)](https://doc.puq.info/uploads/images/gallery/2024-01/edit-promo-set.png)
+
+- Copy an URL next to IP Adress"
+
+#### [![promo url 3.png](https://doc.puq.info/uploads/images/gallery/2024-01/scaled-1680-/promo-url-3.png)](https://doc.puq.info/uploads/images/gallery/2024-01/promo-url-3.png)
+
+#### Link Security and Uniqueness Basics
+
+The uniqueness and security of the generated links lie in their generation process. The link is created using an API key generated upon set creation, the set's ID, and a special key generated from your unique WHMCS code, the set's API key, and the IP address you specified during set creation.
+
+Furthermore, a verification code is also generated using the unique WHMCS code, the set's ID, the set's API key, and the IP address.
+
+Due to this complex combination of parameters, each link generated for every set is unique and is tied to the specific WHMCS instance, ensuring both individuality and security.
+
+Also this ensures that only users with the designated IP address can access the link associated with their set, enhancing its security measures.

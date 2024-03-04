@@ -1,0 +1,39 @@
+# Static Data
+
+[![image-1709117020641.png](https://doc.puq.info/uploads/images/gallery/2024-02/scaled-1680-/image-1709117020641.png)](https://doc.puq.info/uploads/images/gallery/2024-02/image-1709117020641.png)
+
+<p class="callout warning">Please ensure to fill in these details with your accounting department to ensure all data complies with regulations, and perform checks before sending to Uzhondu.</p>
+
+**Static data** - these are the details we assign to all invoices and remain unchanged regardless of the invoices, namely:
+
+1. VAT register name where the document should be entered
+2. Flag defining the type of data contained in the record 
+    1. Purchase register
+    2. Sales register
+    3. Cost ledger item
+    4. Revenue ledger item
+3. Flag defining the type of purchase 
+    1. Value provided for transactions of type (field TYPE) 2, 3, and 4
+    2. Purchase of goods for resale
+    3. Other purchases
+    4. Purchase of fixed assets
+    5. Services
+    6. Purchase of means of transport
+    7. Purchase of real estate
+    8. Purchase of fuel
+4. Deductions 
+    1. It takes values for 'sales'
+    2. Does not take values for 'sales'
+    3. Takes values for 'sales' only in nominative case
+    4. Three-party transaction (only if 'EXPORT' - intra-Community delivery)
+    5. The buyer is a taxpayer
+    6. Purchase from a taxpayer not domiciled in Poland (only if 'EXPORT' - intra-Community delivery or export)
+    7. To be settled in the VAT-UE declaration
+    8. The buyer is a taxpayer (only if 'EXPORT' - intra-Community delivery or export) or three-party transaction (only if 'EXPORT' – domestic transaction)
+5. Flag defining the origin of the entry 
+    1. Record not from fiscal cash register
+    2. Record from fiscal cash register
+6. Flag defining the type of entity 
+    1. Inactive VAT taxpayer
+    2. Individual
+    3. Active VAT taxpayer

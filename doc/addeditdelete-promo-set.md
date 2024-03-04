@@ -1,0 +1,96 @@
+# Add/Edit/Delete Promo Set
+
+[![Promo Code Sets Add.png](https://doc.puq.info/uploads/images/gallery/2024-01/scaled-1680-/promo-code-sets-add.png)](https://doc.puq.info/uploads/images/gallery/2024-01/promo-code-sets-add.png)
+
+### Add Promo Set
+
+Click **Add new Promo Set** at the top of the **Promo Sets** page.
+
+**Set Name**: Enter a set name.
+
+**API Ip Address**: Enter Ip adress for API connection.
+
+**Promo Code Type**: Choose one of the four promotion types:
+
+- Percentage — Discount by a percentage of the original price.
+- Fixed Amount — Discount a specified amount from the original price.
+- Price Override — Changes the product price to this value. Use this to offer a consistent discount across multiple billing cycles.
+- Free Setup — Discount any setup fee from the original price.
+
+**Recurring**: To have the discount only apply to the first invoice, do not check it. When you check this, the discount will apply to renewal invoices.
+
+<p class="callout info">Set **Recur For** to <tt>0</tt> for all future renewals to discount, or enter a different number to specify how many cycles the discount lasts for. This is in addition to the initial invoice for the product. If you wish to provide a discount 6 times, enter <tt>5</tt> in the recurring box.</p>
+
+**Value:** enter the amount of the discount in positive numbers (up to 2 decimals) only.
+
+**Applies To**: Select the products, addons, and domain TLDs that the promotion applies to and what billing cycles or registration periods the discount requires. These should match those of your products.
+
+<p class="callout info">Your can press <tt>Ctrl+click</tt> to select multiple entries.</p>
+
+**Requires**: By selecting products from **Requires**, you can stipulate which products or services the client must also have in their shopping cart before applying the discount. You can use this to offer "buy x get y half price" promotions.
+
+**Also allow existing products in account to qualify for promotion** allows the system to include active products that the client already owns in the promotion criteria.
+
+**Billing Cycles**: Selecting a billing cycle denotes that the promo code can be applied to products with specified billing cycles only.
+
+Optionally, set the start and expiration dates. If you use one or both of these settings, the coupon will only start working after the start date and will stop working at expiration.
+
+<p class="callout warning">**The expiry date** must be **a date in the future**.  
+**The expiry date** must be **later than the start date**.</p>
+
+For **Maximum Uses**, enter the number of uses that you want to allow.
+
+<p class="callout info">The number of times that customers have used the promotion will display below this setting.  
+For unlimited uses, enter <tt>0</tt>.</p>
+
+Use the following checkboxes to specify who can use the promotion:
+
+**Lifetime Promotion**: Discounted pricing is applied even on upgrade and downgrade orders in the future regardless of settings like max uses, expiry, etc;
+
+**Apply Once**: Apply only once per order (even if multiple items qualify)
+
+**New Signups**: Only new clients can use the promotion.
+
+**Apply Once / Client**: If a client has an existing active order that uses this promotion, they will not be able to use the code a second time.
+
+**Existing Client**: Only existing clients with one or more active orders can use the promotion.
+
+**Upgrades/Downgrades:** (For more info read a WHMCS documentation: **[Click here](https://docs.whmcs.com/Promotions#Upgrades.2FDowngrades:~:text=time%20to%20qualify.-,Upgrades/Downgrades,-When%20you%20check)**)
+
+- Select Products/Services or Configurable Options as the Upgrade Type**.**
+- **Products/Services**:
+    
+    
+    - Select Products/Services as the Upgrade Type.
+    - Use Type, Recurring, and Value fields to specify the value of the discount and how long it lasts.
+    - Use Applies To to select which products to apply the promotional code to. The client will receive the discount when upgrading to this product.
+    - For upgrades and downgrades, use Requires slightly differently. It restricts which products clients can upgrade. For example, they can upgrade from a selected product to this product and receive a discount, but not upgrade from an unselected product and receive a discount.
+- **Configurable Options**
+    - To offer discounts to clients for configurable options, select Configurable Options as the Upgrade Type.
+    - Use Upgrade Discount to specify the discount value as a percentage or fixed amount for the configurable options.
+    - Then, use Config Options Upgrades to select which option this discount applies to.
+    - If you use the main Type, Recurring, and Value at the top of the page, the system will apply a discount to the parent product as well as to the configurable option. Leave this blank to only apply the discount to the configurable option.
+
+**Notes**: In the admin notes section, add information that admins may need about the promotion.
+
+### Edit Promo Set
+
+Clicking on the set name or ID opens a template for editing a Promo Set.
+
+[![edit promo set.png](https://doc.puq.info/uploads/images/gallery/2024-01/scaled-1680-/edit-promo-set.png)](https://doc.puq.info/uploads/images/gallery/2024-01/edit-promo-set.png)
+
+After opening the template for editing a Promo Set, you can reconfigure or amend the set.
+
+<p class="callout warning">It's important to note that any promo codes generated prior to these changes to the set of promo codes will not be altered.</p>
+
+[![edit.png](https://doc.puq.info/uploads/images/gallery/2024-01/scaled-1680-/RrLedit.png)](https://doc.puq.info/uploads/images/gallery/2024-01/RrLedit.png)
+
+### Delete Promo Set
+
+Clicking on the set name or ID opens a template for editing a Promo Set.
+
+[![edit promo set.png](https://doc.puq.info/uploads/images/gallery/2024-01/scaled-1680-/edit-promo-set.png)](https://doc.puq.info/uploads/images/gallery/2024-01/edit-promo-set.png)
+
+After opening the template for editing a Promo Set, you can click on "Delete Set" for deletion a set.
+
+[![promo delete.png](https://doc.puq.info/uploads/images/gallery/2024-01/scaled-1680-/promo-delete.png)](https://doc.puq.info/uploads/images/gallery/2024-01/promo-delete.png)

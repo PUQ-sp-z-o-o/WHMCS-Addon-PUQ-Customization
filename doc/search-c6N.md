@@ -1,0 +1,30 @@
+# Search
+
+This page is created for you to control your cron jobs and their outputs.
+
+Here are displayed:
+
+1. Command Name
+2. Process/Output of the command
+3. Date and time of execution
+
+[![11.png](https://doc.puq.info/uploads/images/gallery/2023-07/scaled-1680-/11.png)](https://doc.puq.info/uploads/images/gallery/2023-07/11.png)
+
+#### Redirecting to the Search page upon activating a cron.
+
+When you manually launch any cron, you will be redirected to the Search page, where all executed cron jobs with the specified name for the current day will be shown.[![10.png](https://doc.puq.info/uploads/images/gallery/2023-07/scaled-1680-/10.png)](https://doc.puq.info/uploads/images/gallery/2023-07/10.png)
+
+#### Viewing the list of completed cron jobs.
+
+You can view the list of any cron job for any day by selecting the date in the form and clicking "Search...". If you want to view all cron job entries, simply select "Any" in the "Choose Cron Task" list.
+
+![12.png](https://doc.puq.info/uploads/images/gallery/2023-07/scaled-1680-/12.png)[![13.png](https://doc.puq.info/uploads/images/gallery/2023-07/scaled-1680-/13.png)](https://doc.puq.info/uploads/images/gallery/2023-07/13.png)
+
+#### Clearing the list of manually executed cron job logs:
+
+To clear the list, simply click on the "Clean Manual Cron Logs" button and confirm the prompt that appears.
+
+<p class="callout warning">When you click the button to clear the list of manually executed cron job logs, **ALL data** recorded in this table about manually executed cron jobs **will be deleted**.  
+Please be cautious before performing the deletion.</p>
+
+[![14.png](https://doc.puq.info/uploads/images/gallery/2023-07/scaled-1680-/14.png)](https://doc.puq.info/uploads/images/gallery/2023-07/14.png)

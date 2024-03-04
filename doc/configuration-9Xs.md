@@ -1,0 +1,29 @@
+# Configuration
+
+[![3.png](https://doc.puq.info/uploads/images/gallery/2023-07/scaled-1680-/zOT3.png)](https://doc.puq.info/uploads/images/gallery/2023-07/zOT3.png)
+
+### **PHP Binary File**
+
+First, find out the version of PHP and ionCube on your WHMCS. You can do this by navigating to Utilities -&gt; System -&gt; PHP Info.
+
+[![4.png](https://doc.puq.info/uploads/images/gallery/2023-07/scaled-1680-/4.png)](https://doc.puq.info/uploads/images/gallery/2023-07/4.png)
+
+It is crucial that your ionCube version is v12 and above; otherwise, our extensions will not function correctly.
+
+After determining the PHP version of your WHMCS and ensuring that your ionCube is v12 and above, you need to find out where the PHP binary file is located on your server. To do this, run the command "**whereis <span style="color: #ff0000;">your\_php\_version</span>**" in the console, replacing "<span style="color: #ff0000;">your\_php\_version</span>" with your PHP version:
+
+[![6.png](https://doc.puq.info/uploads/images/gallery/2023-07/scaled-1680-/6.png)](https://doc.puq.info/uploads/images/gallery/2023-07/6.png)
+
+When entering this path in the configuration menu of this extension, make sure it is correct. If the path is incorrect, the extension will produce an error, and you won't be able to continue working with this extension:
+
+[![7.png](https://doc.puq.info/uploads/images/gallery/2023-07/scaled-1680-/7.png)](https://doc.puq.info/uploads/images/gallery/2023-07/7.png)
+
+### **Crons List**
+
+You can find a complete list of available crons in the official WHMCS documentation ( [Task Options for skip and do](https://docs.whmcs.com/Crons#:~:text=the%20respective%20invoices.-,Task%20Options%20for%20skip%20and%20do,-When%20performing%20a) )
+
+To activate a specific cron, all you need to do is click on "Run Cron Now," confirm the request to execute the cron, and wait until the loader disappears and redirects you to another page.
+
+[![8.png](https://doc.puq.info/uploads/images/gallery/2023-07/scaled-1680-/8.png)](https://doc.puq.info/uploads/images/gallery/2023-07/8.png)
+
+[![9.png](https://doc.puq.info/uploads/images/gallery/2023-07/scaled-1680-/9.png)](https://doc.puq.info/uploads/images/gallery/2023-07/9.png)
