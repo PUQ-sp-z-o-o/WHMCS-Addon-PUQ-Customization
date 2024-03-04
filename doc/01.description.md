@@ -110,4 +110,28 @@ Allows setting a specific date and time for suspending client services.
 
 Customization of the admin panel, changing colors, logo and more.
 
+### [Manual Cron Run](https://doc.puq.info/books/puq-customization-whmcs-addon/chapter/manual-cron-run)
+
+Manual Cron Run extension provides users with the ability to manually execute cron jobs.
+
+### [Promo Code API](https://doc.puq.info/books/puq-customization-whmcs-addon/chapter/promo-code-api)
+
+The Promo Code API extension helps with creation of promo codes from the API.
+
+### [Cancellation Request](https://doc.puq.info/books/puq-customization-whmcs-addon/chapter/cancellation-request)
+
+The Cancellation Request extension helps manage unpaid and canceled invoices by transitioning them to a "Cancelled" status or removing already canceled invoices, both manually and via cron jobs.
+
+### [Mattermost Export](https://doc.puq.info/books/puq-customization-whmcs-addon/chapter/mattermost-export)
+
+Instantly share WHMCS reports, tickets, and invoices in your Mattermost server.
+
+### [Export Tools](https://doc.puq.info/books/puq-customization-whmcs-addon/chapter/export-tools)
+
+The "ExportTool" extension for WHMCS enables seamless JSON or XML export of data from various WHMCS tables, offering customizable, secure, and efficient data management and integration capabilities.
+
+### [Export VAT_R](https://doc.puq.info/books/puq-customization-whmcs-addon/chapter/export-vat-r)
+
+Extension specifically designed for the Polish market! The Export VAT_R extension enables generating VAT_R reports for tax settlements from invoices within your WHMCS system.
+
 >Please note that this is just a glimpse of the extensive range of features and functionality provided by our module.
