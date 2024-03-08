@@ -1,0 +1,11 @@
+# Widget Intelligent Domain Search
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Dowload](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+#### Аdmin configuration
+
+[![image-1709900459862.png](https://doc.puq.info/uploads/images/gallery/2024-03/scaled-1680-/image-1709900459862.png)](https://doc.puq.info/uploads/images/gallery/2024-03/image-1709900459862.png)
+
+##### Example of how the widget might look in the client area, all colors and sizes are customizable.
+
+[![image-1709900725987.png](https://doc.puq.info/uploads/images/gallery/2024-03/scaled-1680-/image-1709900725987.png)](https://doc.puq.info/uploads/images/gallery/2024-03/image-1709900725987.png)
