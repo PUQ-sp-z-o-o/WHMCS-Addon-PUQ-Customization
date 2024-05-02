@@ -1,0 +1,18 @@
+# Exchange settings
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+[![image-1714636442989.png](https://doc.puq.info/uploads/images/gallery/2024-05/scaled-1680-/image-1714636442989.png)](https://doc.puq.info/uploads/images/gallery/2024-05/image-1714636442989.png)
+
+The "Exchange Settings" page of the Currency Exchange extension is designed to manage the integration and settings related to currency exchange rates. Here's a detailed description of each component on this page:
+
+1. **API Link in JSON format**: This input field allows users to specify the URL of the external API from which the system fetches the exchange rates. For example, the filled-in Polish Bank URL `https://api.nbp.pl/api/exchangerates/tables/a/?format=json` indicates the source API that returns the currency rates in JSON format.
+2. **Add Percentage to Rates**: This numeric input allows the user to specify a percentage that is added on top of the fetched exchange rates. This can be used to cover additional charges or provide a buffer against rate fluctuations. The current setting shows "0%", indicating no additional percentage is added.
+3. **Update Exchange Rates Now**: A dropdown menu that enables immediate updating of exchange rates. Options include "YES" and "NO", with the current selection being "NO". This setting controls whether the exchange rates should be updated immediately upon changing settings or submitting the form.
+4. **Update Exchange Rates with Daily CRON**: Another dropdown menu that controls whether the exchange rates should be automatically updated on a daily basis using a CRON job. The options are "YES" and "NO", with "YES" currently selected, indicating daily automatic updates are enabled.
+5. **Type of Exchange Rate**: This dropdown allows the selection between "Reverse exchange rate" and other methods of calculating the exchange rate to be used. The "Reverse exchange rate" option, which is currently selected, suggests that the system calculates and uses the inverse of the fetched exchange rate.
+6. **Now in Database**: This section displays a list of currency codes and their corresponding rates currently stored in the database. Each row shows the currency code (like PLN, EUR, UAH, USD) alongside its rate, indicating what is currently used by the system.
+7. **Now in API**: This section similarly lists currencies but shows the rates as they are fetched from the external API at the moment. It also displays the "Receive rate", which is the inverse or adjusted rate calculated based on the "Type of Exchange Rate" setting. For each currency code, the current rate and receive rate are shown, allowing users to compare these with what is stored in the database.
+8. **Save Changes Button**: A button at the bottom of the form that users click to save all changes made to the settings on this page. When clicked, it also triggers any immediate actions selected, such as updating exchange rates now if that option is set to "YES".
+
+This page is crucial for administrators who need to ensure that their currency exchange rates are up-to-date and accurately reflect any desired markups or adjustments. The clear separation of settings and real-time data presentation makes it a practical tool for managing financial transactions in different currencies.

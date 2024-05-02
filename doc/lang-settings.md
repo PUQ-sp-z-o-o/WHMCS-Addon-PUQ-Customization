@@ -1,0 +1,18 @@
+# Lang settings
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+[![image-1711371812669.png](https://doc.puq.info/uploads/images/gallery/2024-03/scaled-1680-/image-1711371812669.png)](https://doc.puq.info/uploads/images/gallery/2024-03/image-1711371812669.png)
+
+On the "Lang settings" page of the Lang Detect extension, the interface is designed to optimize the user experience by automatically setting the language and currency preferences on your WHMCS platform based on browser detection:
+
+1\. **Default language and currency**: At the top, you have dropdowns to set the default language and currency. This is the fallback setting that will be used if the browser’s language cannot be detected or is not supported.
+
+2\. **Language-specific currency settings**: Below the default settings, there is a list of languages supported by your WHMCS platform, each with a corresponding dropdown menu to select the preferred currency for that particular language. This configuration ensures that users are presented with prices in the currency most familiar to them based on their chosen language.
+
+\- Each language is listed along with its default currency setting, providing a clear and organized view of how your platform will present itself to users of different languages.  
+\- The dropdown menu next to each language allows you to customize the currency setting individually. This is crucial for businesses that cater to an international audience and want to offer a tailored browsing experience.
+
+3\. **Save Changes**: After you have made your selections or changes to the language and currency settings, clicking the "Save Changes" button at the bottom of the page will ensure that your configurations are applied to the platform.
+
+This page is essential for managing the language and currency localization settings of your WHMCS platform, making it intuitive for international visitors by automatically aligning with their preferences. It simplifies the process for users and potentially increases engagement by reducing the friction of having to manually select a language or currency.

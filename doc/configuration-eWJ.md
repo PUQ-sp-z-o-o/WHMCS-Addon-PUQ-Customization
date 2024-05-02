@@ -1,0 +1,11 @@
+# Configuration
+
+[![image-1714644003066.png](https://doc.puq.info/uploads/images/gallery/2024-05/scaled-1680-/image-1714644003066.png)](https://doc.puq.info/uploads/images/gallery/2024-05/image-1714644003066.png)
+
+**Enabled** - Enabling or disabling all custom functions of this extension affects the automation and visibility of its features in the client area. When the extension is disabled, the automation capabilities and related features provided by the extension will not be active or visible to clients. However, as an administrator, you will still have access to configure and utilize the extension's functionalities through the administration interface. This gives you the flexibility to control the visibility and automation aspects of the extension based on your specific needs and preferences.
+
+**Default admin Username For Reply** - Set the admin username for default replies
+
+**Default Reply** - Please enter your message here. If you check "Auto-Reply" chackbox in the "Replies" tab but do not check "Overwrite Reply" chackbox, the response to the client will contain the text from this field.
+
+**Default number of minutes** - The time after the client's request is created when an auto-reply will be sent. Please note that this time depends entirely on your WHMCS cron job. For example: If a client submits a request at 11:41 and you set this field to "6", and the cron job runs every 5 minutes, then the auto-reply will be sent at 11:50, i.e., in the next cron run.

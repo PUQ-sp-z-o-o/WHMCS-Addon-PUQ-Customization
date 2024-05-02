@@ -1,0 +1,7 @@
+# Description
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+## Lang Detect
+
+The "**Lang Detect**" extension is designed to enhance the localization process for WHMCS platforms by automatically detecting and applying the visitor's preferred language and currency based on their browser settings. This functionality ensures that users are presented with content in their native language, significantly improving the overall user experience. Through streamlined localization, this extension makes it easier for businesses to cater to a global audience, fostering a more inclusive and accessible digital environment.
