@@ -134,4 +134,16 @@ The "ExportTool" extension for WHMCS enables seamless JSON or XML export of data
 
 Extension specifically designed for the Polish market! The Export VAT_R extension enables generating VAT_R reports for tax settlements from invoices within your WHMCS system.
 
+### [Lang Detect](https://doc.puq.info/books/puq-customization-whmcs-addon/chapter/lang-detect)
+
+This extension automatically detects and applies the browser's preferred language and currency for WHMCS platforms, streamlining localization and improving user experience by presenting content in the visitor's native language.
+
+### [Ticket Auto-Reply](https://doc.puq.info/books/puq-customization-whmcs-addon/chapter/ticket-auto-reply)
+
+The extension allows configuring messages to be sent to clients automatically in response to their inquiries.
+
+### [Currency Exchange](https://doc.puq.info/books/puq-customization-whmcs-addon/chapter/currency-exchange)
+
+Allows you to synchronize currencies with the selected bank API.
+
 >Please note that this is just a glimpse of the extensive range of features and functionality provided by our module.
